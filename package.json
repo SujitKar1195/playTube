@@ -1,0 +1,11 @@
+{
+  "name": "playtube",
+  "version": "1.0.0",
+  "description": "A video playing platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sujit kar",
+  "license": "ISC"
+}
